@@ -13,5 +13,5 @@ Para ter acesso a esse site entre em <https://dcfs44.github.io>
 
 ## Autor
 Abaixo alguns links para as minhas redes:
-- (Linkedin)[https://linkedin.com/in/alessandrofeitoza]
+- [Linkedin](https://linkedin.com/in/alessandrofeitoza)
 - <a href="https://instagram.com/alessandro_feitoza">Instagram</a>
